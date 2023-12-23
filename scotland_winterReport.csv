@@ -1,0 +1,6 @@
+Weeks,Mortality_Unvacinated,1dose_Mortality,2dose_Mortality,3dose_Mortality,Acute_Unvacinated,1dose_Acute,2dose_Acute,3dose_Acute,CaseRate_Unvacinated,1dose_CaseRate,2dose_CaseRate,3dose_CaseRate
+04 December - 10 December 2021,5.56,17.24,9.44,0.26,,,,,,,,
+11 December - 17 December 2021 ,7.13,3.93,7.66,0.2,43.94,37.48,46.46,4.29,482.87,574.16,826.49,458.39
+18 December - 24 December 2021  ,1.72,15.27,6.52,0.33,64.55,14.06,45.21,6.94,721.39,958.62,1527.87,902.02
+25 December - 31 December 2021 ,4.79,0.36,7.06,0.21,84.17,53.62,78.91,20.54,1242.10,1693.71,2897.58,1755.69
+01 January 2022 - 07 January 2022,,,,,59.17,63.78,130.14,14.82,1092.80,1527.57,2499.52,1466.76
